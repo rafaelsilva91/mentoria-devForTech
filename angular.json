@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "copaDoMundo2022"
+    }
+  },
+  "defaultProject": "copaDoMundo2022",
+  "cli": {
+    "analytics": "87669dac-33c6-4ebd-b46d-cfde5f602452"
+  }
 }
